@@ -302,6 +302,6 @@ Project documentation and analysis tools have been transitioned to ensure implem
 
 ---
 
-**Author:** Cherry | Business Analyst | MBA Candidate (2027)
+**Author:** Brianna Savoy | Business Analyst | MBA Candidate (2027)
 
 **Repository:** [Business Intelligence Analytics Suite](https://github.com/bri-sourcey/Business-Intelligence-Analytics-Suite)
