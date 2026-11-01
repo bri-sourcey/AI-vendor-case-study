@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-Engaged as a Business Analyst for [Client], a high-volume outbound sales organization processing 200,000+ customer contacts monthly. The organization faced significant regulatory exposure due to call abandonment rates substantially exceeding the 3% FCC compliance threshold, while simultaneously losing potential revenue from dropped customer connections.
+Engaged as a Business Analyst for [Client], a high-volume outbound sales organization placing 200,000+ calls daily. The organization faced significant regulatory exposure due to call abandonment rates substantially exceeding the 3% FCC compliance threshold, while simultaneously losing potential revenue from dropped customer connections.
 
 Conducted end-to-end vendor evaluation for AI-powered voice agent platforms, analyzing build vs. buy vs. replace strategies. Developed cost projection models, gathered and analyzed operational data across 56 agents and 480+ concurrent call lines, and delivered a vendor recommendation based on pricing structure, implementation timeline, and scalability requirements.
 
-Currently leading implementation of the selected solution, with a phased rollout strategy including AI-assisted call handling (Phase 1) and intelligent call routing optimization (Phase 2).
+Led the evaluation through vendor selection and designed a phased rollout strategy including AI-assisted call handling (Phase 1) and intelligent call routing optimization (Phase 2), handing off at soft launch.
 
 ---
 
@@ -119,7 +119,7 @@ To help leadership visualize costs at different adoption levels, I developed the
 | AI Coverage | Calls Handled/Day | Monthly Cost Range |
 |-------------|-------------------|-------------------|
 | 10% | ~760 | $5,675 - $7,675 |
-| 50% | ~3,800 | $16,736 - $18,376 |
+| 50% | ~3,800 | $16,376 - $18,376 |
 | 100% | ~7,600 | $29,752 - $31,752 |
 
 ---
@@ -264,9 +264,9 @@ Based on vendor capabilities and organizational needs, I proposed a phased imple
 
 **Expected Outcome:** Faster call resolution, more informed conversations, improved customer satisfaction
 
-### Current Status
+### Status at Handoff
 
-Implementation is currently in progress. Call scripts and rebuttal examples have been submitted to [AI Platform Provider], and soft launch coordination is underway. Project documentation has been transitioned to ensure continuity.
+Call scripts and rebuttal examples were submitted to [AI Platform Provider], and soft launch coordination was underway when my engagement concluded. Project documentation was transitioned to ensure continuity.
 
 ---
 
